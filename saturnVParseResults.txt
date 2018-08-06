@@ -1,0 +1,36 @@
+Uses text from http://www.astronautix.com/s/saturnv.html
+
+Here are the things I know about Saturn V:
+ - one of the outstanding achievements that occurred during my lifetime
+Here are the acronyms and definitions I found about Saturn V:
+ - MPAD: Mission Planning and Analysis Division
+ - MSFC: Marshall Space Flight Center
+ - JPL: Jet Propulsion Laboratory
+ - II: in the INT-21
+ - ARPA: Advanced Research Projects Agency
+ - ASPO: Apollo Spacecraft Program Office
+ - DOD: Director of Defense
+ - DFI: Development Flight Instrumentation
+ - LTA: LM test article)-B
+ - OMSF: of Manned Space Flight
+ - SED: Systems Engineering Division
+ - GSFC: Goddard Space Flight Center
+ - MSC: Marshall Space Flight Center
+ - VAB: Vertical Assembly Building
+Here are the direct quoations I found about Saturn V:
+ - I: "The gravity of the situation compels me to ask that you let me know, by the end of January if possible, the actions you propose to take. . . ."
+ - restart capability: "for the primary reason of providing sufficient time for ground support in verifying navigation, and flight crew checkout of CSM and S-IVB systems prior to TLI (translunar injection), while providing for two injection opportunities in both the Atlantic and Pacific Oceans (second and third revolutions). For later missions, consideration should be given to the hardware implications of providing a restart capability with minimum (zero) restrictions, so that advantage may be taken of confidence in onboard systems to gain additional payload."
+ - MSC ASPO Manager: "I will always consider Saturn V to be one of the outstanding achievements that occurred during my lifetime. Its sheer size is simply fantastic. But even more astounding was its performance in its first flights."
+ - Armstrong: "Houston, Tranquillity Base here - the Eagle has landed."
+ - Armstrong: "one small step for man - one giant leap for mankind."
+Here are the terms I found for Saturn V:
+ - apollo rank: 0.014243919454465076
+ - saturn rank: 0.010617608683357486
+ - lunar rank: 0.007640472179850838
+ - spacecraft rank: 0.0073777005426282245
+ - vehicle rank: 0.007093597647694202
+ - stage rank: 0.006450280879971739
+ - mission rank: 0.0062702102790032545
+ - csm rank: 0.006258153254980865
+ - s rank: 0.005918184561782315
+ - launch rank: 0.005862570589865203
